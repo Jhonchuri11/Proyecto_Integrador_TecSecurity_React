@@ -1,0 +1,36 @@
+
+.navbar-light {
+  background-color: #242121; 
+}
+
+.navbar-nav {
+  margin: auto;
+  margin-left: 30px;
+}
+
+
+.nav-link {
+  color: #8e8a8a;
+}
+
+.nav-item.active .nav-link {
+  color: #bac043; 
+}
+
+
+.btn-outline-danger {
+  color: #dc3545; 
+  border-color: #dc3545; 
+}
+
+.btn-outline-danger:hover {
+  color: #ffffff; 
+  background-color: #edcfd2;
+  border-color: #dc3545; 
+}
+.Logout{
+  margin-right: 30px;
+}
+carrousel{
+  margin-top: 75px;
+}
